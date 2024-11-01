@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2723a070.css",
+    "main.js": "/static/js/main.c0e844f8.js",
+    "static/js/787.d25f670f.chunk.js": "/static/js/787.d25f670f.chunk.js",
+    "static/media/aluminiumwork.jpg": "/static/media/aluminiumwork.baf5595b82098e00a726.jpg",
+    "static/media/5124556.png": "/static/media/5124556.dd75da67dc9ce14080a0.png",
+    "static/media/wall-poster.png": "/static/media/wall-poster.0be4a98c6e1a12d896b4.png",
+    "static/media/aluminium-windows.png": "/static/media/aluminium-windows.24efced4a59753af364e.png",
+    "static/media/pvc1.png": "/static/media/pvc1.b734026b1f0c59c480fb.png",
+    "static/media/glass-work.jpg": "/static/media/glass-work.a0f8e89e0bcefaeffc60.jpg",
+    "static/media/ceilingimg.jpg": "/static/media/ceilingimg.6d637b40b57fabbfc73d.jpg",
+    "static/media/c9.jpeg": "/static/media/c9.1fe10008eba038726099.jpeg",
+    "static/media/cladding.jpeg": "/static/media/cladding.f9bbfa92df7393ae5b3f.jpeg",
+    "static/media/kc7.jpeg": "/static/media/kc7.f64fbbee55414ca9565d.jpeg",
+    "static/media/g2.jpeg": "/static/media/g2.cd18dc3e83edcc93bc53.jpeg",
+    "static/media/c6.jpeg": "/static/media/c6.a7c1b1b82c474b275d7f.jpeg",
+    "static/media/phone.png": "/static/media/phone.f5772de1d7ddf865568c.png",
+    "static/media/mn1.jpeg": "/static/media/mn1.c3112637d3da1bd24e53.jpeg",
+    "static/media/Tv-stand.jpeg": "/static/media/Tv-stand.ed9770c9133696d78b0e.jpeg",
+    "static/media/mosquitonet-icon.png": "/static/media/mosquitonet-icon.d61a5d3a08319389afb6.png",
+    "static/media/team.png": "/static/media/team.e791792406f298de0246.png",
+    "static/media/kitchen-cupboard-icon.png": "/static/media/kitchen-cupboard-icon.c08077afcef5fd8a7d32.png",
+    "static/media/windows-icon.png": "/static/media/windows-icon.c0ea5ce11f93a46f6d27.png",
+    "static/media/kitchen-cupboard.webp": "/static/media/kitchen-cupboard.c87f0cd5972b94196cd4.webp",
+    "static/media/placeholder.png": "/static/media/placeholder.64cdcb0ef97818161310.png",
+    "static/media/ceiling-icon.png": "/static/media/ceiling-icon.4d58c17bbdcacb5cc33a.png",
+    "static/media/imglogo1.png": "/static/media/imglogo1.178461026ff190f4e0fe.png",
+    "index.html": "/index.html",
+    "static/media/wave.svg": "/static/media/wave.55b0279a98eed97b6833.svg",
+    "main.2723a070.css.map": "/static/css/main.2723a070.css.map",
+    "main.c0e844f8.js.map": "/static/js/main.c0e844f8.js.map",
+    "787.d25f670f.chunk.js.map": "/static/js/787.d25f670f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2723a070.css",
+    "static/js/main.c0e844f8.js"
+  ]
+}
