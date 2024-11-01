@@ -1,0 +1,76 @@
+.appbar-container{
+    background-color: rgba(0, 0, 0, 0.685);
+    min-height: 90px;
+    height: auto;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.appbar-containeroff{
+    background-color: rgba(0, 0, 0, 0.685);
+    min-height: 70px;
+    transition: 1s;
+    height: auto;
+    width: 100%;
+    position: fixed;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-content: end;
+    margin-top: 25px;
+}
+.links a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    text-shadow: rgb(0, 0, 0) .1px .1px 5px;
+    border-radius: 10px;
+}
+.links a:hover{
+    background: rgba(41, 40, 40, 0.719);
+    color: #c5ab6f;
+    text-shadow: none;
+}
+
+@media screen and (max-width:700px) {
+    .appbar-container{
+        background-color: rgba(0, 0, 0, 0.685);
+        min-height: 90px;
+        height: auto;
+        width: 100%;
+        position: fixed;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+
+    }
+    .appbar-containeroff{
+        background-color: rgba(0, 0, 0, 0.685);
+        min-height: 50px;
+        transition: 1s;
+        height: auto;
+        width: 100%;
+        position: fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .links a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: large;
+        text-shadow: black 1px 1px 5px;
+    }
+    .links{
+        margin-top: 0;
+    }
+   
+}

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:ital,wght@0,500;1,400;1,500;1,600&family=Comfortaa:wght@400;700&display=swap');
+
+.about-container{
+    background-color: #eaece5;
+    display: flex;
+    align-items: center !important;
+    justify-content: center;
+    width: 100%;
+    padding: 100px 50px 0 50px;
+}
+.about-profile{
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.profile-img{
+    max-width: 400px;
+    border-radius: 25px;
+    box-shadow: 20px 20px 15px rgb(32, 65, 228) ;
+
+}
+
+.aboutpage-secton{
+    display: flex;
+    flex-direction: column;
+    padding: 45px;
+    max-width: 50%;
+}
+.about-heading{
+    font-family: 'Andada Pro';
+    font-style: italic;
+}
+.about-content{
+    font-family: 'Comfortaa';
+    font-weight: 900;
+    font-style: italic;
+}
+
+
+@media screen and (max-width:960px) {
+    .about-container{
+        
+    }
+    .about-container{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .profile-img{
+        min-width: 200px;
+        max-width: 300px;
+    }
+    .about-heading{
+        margin-top: 50px;
+    }
+    .aboutpage-secton{
+        padding: 0;
+        max-width: 100%;
+    }
+    
+    
+}
